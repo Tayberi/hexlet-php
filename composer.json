@@ -1,0 +1,12 @@
+{
+    "name": "taiberiea/hexlet-php",
+    "description": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Taiberi Evgenii",
+            "email": "harmankardon00@gmail.com"
+        }
+    ],
+    "require": {}
+}
